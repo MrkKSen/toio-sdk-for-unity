@@ -12,4 +12,4 @@ defaults:
     scope:
       path: "" # 全てのファイルに対して適用する
     values:
-      layout: "default" # デフォルトのレイアウトを指定
+      layout: "custom" # デフォルトのレイアウトを指定
