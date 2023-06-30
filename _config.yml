@@ -6,3 +6,10 @@ url: https://mrkksen.github.io/toio-sdk-for-unity/
 plugins:
   - jekyll-seo-tag
 # google_analytics: UA-133660753-6
+
+defaults:
+  - 
+    scope:
+      path: "" # 全てのファイルに対して適用する
+    values:
+      layout: "default" # デフォルトのレイアウトを指定
