@@ -6,9 +6,3 @@ url: https://mrkksen.github.io/toio-sdk-for-unity/
 plugins:
   - jekyll-seo-tag
 # google_analytics: UA-133660753-6
-
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-1T5FR4Y2QL"
-    # anonymize_ip         : # true, false (default)
